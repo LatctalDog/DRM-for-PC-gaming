@@ -1,0 +1,7 @@
+app="Papers, Please"
+ID="239030"
+exe="PapersPlease.exe"
+
+app="Mirror's Edge"
+ID="17410"
+exe="MirrorsEdge.exe"
