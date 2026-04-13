@@ -5,3 +5,7 @@ exe="PapersPlease.exe"
 app="Mirror's Edge"
 ID="17410"
 exe="MirrorsEdge.exe"
+
+app="Half-Life 2"
+ID="220"
+exe="hl2.exe"
