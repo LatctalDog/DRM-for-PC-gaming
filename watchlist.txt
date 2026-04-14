@@ -9,3 +9,7 @@ exe="MirrorsEdge.exe"
 app="Half-Life 2"
 ID="220"
 exe="hl2.exe"
+
+app="GTA Vice City"
+ID="12110"
+exe="gta-vc.exe"
