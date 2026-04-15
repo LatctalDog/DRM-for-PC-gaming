@@ -9,6 +9,7 @@ exe="MirrorsEdge.exe"
 app="Half-Life 2"
 ID="220"
 exe="hl2.exe"
+CleanupIDs="340"
 
 app="GTA Vice City"
 ID="12110"
