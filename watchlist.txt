@@ -14,3 +14,27 @@ CleanupIDs="340"
 app="GTA Vice City"
 ID="12110"
 exe="gta-vc.exe"
+
+app="Grand Theft Auto IV: The Complete Edition"
+ID="12210"
+exe="PlayGTAIV.exe"
+
+app="Portal"
+ID="400"
+exe="hl2.exe"
+
+app="Portal 2"
+ID="620"
+exe="portal2.exe"
+
+app="####"
+ID="#####"
+exe="####.exe"
+
+app="####"
+ID="#####"
+exe="####.exe"
+
+app="####"
+ID="#####"
+exe="####.exe"
