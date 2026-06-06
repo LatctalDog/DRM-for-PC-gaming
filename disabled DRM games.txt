@@ -1,1 +1,368 @@
-ddd
+app="Among Us"
+ID="945360"
+exe="Among Us.exe"
+
+app="Assassin's Creed"
+ID="15100"
+exe="AssassinsCreed_Game.exe"
+
+app="Assassin's Creed Unity"
+ID="289650"
+exe="ACU.exe"
+
+app="Assassin's Creed Syndicate"
+ID="368500"
+exe="ACS.exe"
+
+app="Assassin's Creed Odyssey"
+ID="812140"
+exe="ACOdyssey.exe"
+
+app="Assassin's Creed Origins"
+ID="582160"
+exe="ACOrigins.exe"
+
+app="Assassin's Creed Valhalla"
+ID="2208920"
+exe="ACValhalla.exe"
+
+app="ASTRONEER"
+ID="361420"
+exe="Astro.exe"
+
+app="Beyond: Two Souls"
+ID="960990"
+exe="BeyondTwoSouls_Steam.exe"
+
+app="BioShock"
+ID="7670"
+exe="bioshock.exe"
+
+app="BioShock 2"
+ID="8850"
+exe="Bioshock2Launcher.exe"
+
+app="BioShock Infinite"
+ID="8870"
+exe="BioShockInfinite.exe"
+
+app="Black Mesa"
+ID="362890"
+exe="bms.exe"
+
+app="Blacksad: Under the Skin"
+ID="1003890"
+exe="Blacksad.exe"
+
+app="Cities: Skylines"
+ID="255710"
+exe="dowser.exe"
+
+app="Cloudpunk"
+ID="746850"
+exe="Cloudpunk.exe"
+
+app="Counter-Strike 2"
+ID="730"
+exe="cs2.exe"
+
+app="Dead by Daylight"
+ID="381210"
+exe="DeadByDaylight.exe"
+
+app="DEATH STRANDING DIRECTOR'S CUT"
+ID="1850570"
+exe="ds.exe"
+
+app="DEATHLOOP"
+ID="1252330"
+exe="Deathloop.exe"
+
+app="Dishonored"
+ID="205100"
+exe="Dishonored.exe"
+
+app="Dishonored®: Death of the Outsider™"
+ID="614570"
+exe="Dishonored_DO.exe"
+
+app="Fahrenheit: Indigo Prophecy Remastered"
+ID="312840"
+exe="Fahrenheit.exe"
+
+app="Fall Guys"
+ID="1097150"
+exe="FallGuys_client.exe"
+
+app="Far Cry"
+ID="13520"
+exe="FarCry.exe"
+
+app="Far Cry 2"
+ID="19900"
+exe="FarCry2.exe"
+
+app="Far Cry® 3"
+ID="220240"
+exe="FC3UpdaterSteam.exe"
+
+app="Far Cry® 3 Blood Dragon"
+ID="233270"
+exe="FC3BDUpdaterSteam.exe"
+
+app="Far Cry 4"
+ID="298110"
+exe="FarCry4.exe"
+
+app="Far Cry 5"
+ID="552520"
+exe="FarCry5.exe"
+
+app="Far Cry New Dawn"
+ID="939960"
+exe="FarCryNewDawn.exe"
+
+app="Far Cry Primal"
+ID="371660"
+exe="FCPrimal.exe"
+
+app="Firewatch"
+ID="383870"
+exe="firewatch.exe"
+
+app="Five Nights at Freddy's"
+ID="319510"
+exe="FiveNightsatFreddys.exe"
+
+app="Garry's Mod"
+ID="4000"
+exe="gmod.exe"
+
+app="Grand Theft Auto III"
+ID="12100"
+exe="gta3.exe"
+
+app="Grand Theft Auto IV: The Complete Edition"
+ID="12210"
+exe="PlayGTAIV.exe"
+
+app="Grand Theft Auto: San Andreas"
+ID="12120"
+exe="gta-sa.exe"
+
+app="Grand Theft Auto V Enhanced"
+ID="3240220"
+exe="PlayGTAV.exe"
+
+app="Grand Theft Auto V Legacy"
+ID="271590"
+exe="PlayGTAV.exe"
+
+app="Grand Theft Auto: Vice City"
+ID="12110"
+exe="gta-vc.exe"
+
+app="Hades"
+ID="1145360"
+exe="Hades.exe"
+
+app="Half-Life"
+ID="70"
+exe="hl.exe"
+
+app="Half-Life 2"
+ID="220"
+exe="hl2.exe"
+CleanupIDs="340"
+
+app="Half-Life 2: Deathmatch"
+ID="320"
+exe="hl2mp_win64.exe"
+
+app="Half-Life: Alyx"
+ID="546560"
+exe="hlvr.exe"
+
+app="Half-Life Deathmatch: Source"
+ID="360"
+exe="hl1mp_win64.exe"
+
+app="Heavy Rain"
+ID="960910"
+exe="HeavyRain.exe"
+
+app="Hellblade: Senua's Sacrifice"
+ID="414340"
+exe="HellbladeGame.exe"
+
+app="Hollow Knight"
+ID="367520"
+exe="hollow_knight.exe"
+
+app="Horizon Zero Dawn™ Complete Edition"
+ID="1151640"
+exe="HorizonZeroDawn.exe"
+
+app="Left 4 Dead"
+ID="500"
+exe="left4dead.exe"
+
+app="Left 4 Dead 2"
+ID="550"
+exe="left4dead2.exe"
+
+app="Life is Strange™"
+ID="319630"
+exe="LifeIsStrange.exe"
+
+app="Little Nightmares Enhanced Edition"
+ID="2149010"
+exe="Little_Nightmares_Enhanced.exe"
+
+app="Minecraft Dungeons"
+ID="1672970"
+exe="Dungeons.exe"
+
+app="Mini Motorways"
+ID="1127500"
+exe="Mini Motorways.exe"
+
+app="MURDERED: SOUL SUSPECT™"
+ID="233290"
+exe="Murdered.exe"
+
+app="Night in the Woods"
+ID="481510"
+exe="Night in the Woods.exe"
+
+app="Ori and the Blind Forest: Definitive Edition"
+ID="387290"
+exe="OriDE.exe"
+
+app="Outlast"
+ID="238320"
+exe="OutlastLauncher.exe"
+
+app="Papers, Please"
+ID="239030"
+exe="PapersPlease.exe"
+
+app="PEAK"
+ID="3527290"
+exe="PEAK.exe"
+
+app="Phasmophobia"
+ID="739630"
+exe="Phasmophobia.exe"
+
+app="Pikuniku"
+ID="572890"
+exe="Pikuniku.exe"
+
+app="Portal"
+ID="400"
+exe="hl2.exe"
+
+app="Portal 2"
+ID="620"
+exe="portal2.exe"
+
+app="Prey"
+ID="480490"
+exe="Prey.exe"
+
+app="Raft"
+ID="648800"
+exe="Raft.exe"
+
+app="ReCore: Definitive Edition"
+ID="537450"
+exe="ReCore.exe"
+
+app="Remember Me"
+ID="228300"
+exe="RememberMe.exe"
+
+app="Rise of the Tomb Raider"
+ID="391220"
+exe="ROTTR.exe"
+
+app="Shadow of the Tomb Raider"
+ID="750920"
+exe="SOTTR.exe"
+
+app="Stray"
+ID="1332010"
+exe="Stray.exe"
+
+app="Sunset Overdrive"
+ID="847370"
+exe="Sunset.exe"
+
+app="SUPERHOT"
+ID="322500"
+exe="SUPERHOT.exe"
+
+app="SUPERHOT: MIND CONTROL DELETE"
+ID="690040"
+exe="SUPERHOTMCD.exe"
+
+app="Superliminal"
+ID="1049410"
+exe="SuperliminalSteam.exe"
+
+app="Teardown"
+ID="1167630"
+exe="teardown.exe"
+
+app="Tell Me Why"
+ID="1180660"
+exe="TME-Win64-Shipping.exe"
+
+app="Terraria"
+ID="105600"
+exe="Terraria.exe"
+
+app="The Forest"
+ID="242760"
+exe="	¡TheForest.exe"
+
+app="The Quarry"
+ID="1577120"
+exe="TheQuarry.exe"
+
+app="The Sims™ 4"
+ID="1222670"
+exe="TS4.exe"
+
+app="The Stanley Parable"
+ID="221910"
+exe="stanley.exe"
+
+app="The Stanley Parable: Ultra Deluxe"
+ID="1703340"
+exe="The Stanley Parable Ultra Deluxe.exe"
+
+app="The Talos Principle"
+ID="257510"
+exe="Talos.exe"
+
+app="The Witness"
+ID="210970"
+exe="witness_d3d11.exe"
+
+app="Tomb Raider"
+ID="203160"
+exe="TombRaider.exe"
+
+app="Undertale"
+ID="391540"
+exe="UNDERTALE.exe"
+
+app="Watch Dogs: Legion"
+ID="2239550"
+exe="WatchDogsLegion.exe"
+
+app="Watch_Dogs 2"
+ID="447040"
+exe="WatchDogs2.exe"
